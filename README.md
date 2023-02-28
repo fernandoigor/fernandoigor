@@ -22,4 +22,4 @@ Sou um grande curioso da tecnologia, aficionado em consumir conteúdos e novas p
 <br/>
 <br/>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=fernandoigor&show_icons=true&theme=dracula&count_private=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=fernandoigor&show_icons=true&theme=dark&count_private=true)
