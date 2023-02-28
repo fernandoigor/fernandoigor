@@ -21,7 +21,7 @@ Sou um grande curioso da tecnologia, aficionado em consumir conteúdos e novas p
 </div><br/>
 <div style="display: inline_block">
   <img align="center" alt="mysql" src="https://img.shields.io/static/v1?style=for-the-badge&message=MySQL&color=4479A1&logo=MySQL&logoColor=FFFFFF&label=" />
-  <img align="center" alt="postgresql" src="https://img.shields.io/badge/Postgresql-d5214a?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img align="center" alt="postgresql" src="https://img.shields.io/static/v1?style=for-the-badge&message=PostgreSQL&color=4169E1&logo=PostgreSQL&logoColor=FFFFFF&label=" />
   <img align="center" alt="dynamodb" src="https://img.shields.io/static/v1?style=for-the-badge&message=Amazon+DynamoDB&color=4053D6&logo=Amazon+DynamoDB&logoColor=FFFFFF&label=" />
   <img align="center" alt="redis" src="https://img.shields.io/static/v1?style=for-the-badge&message=Redis&color=DC382D&logo=Redis&logoColor=FFFFFF&label=" />
 </div>
